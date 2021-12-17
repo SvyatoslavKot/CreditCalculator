@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Calculator2 {
+public class PaymentCalculator {
     Scanner scanner = new Scanner(System.in);
     Calculator calculator = new Calculator();
 

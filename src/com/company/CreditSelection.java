@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Credit {
+public class CreditSelection {
     private String creditName;
     private String accountNumber;
     private int amount;
